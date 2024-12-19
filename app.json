@@ -3,7 +3,7 @@
     "name": "bank-app",
     "slug": "bank-app",
     "version": "1.0.0",
-
+    "newArchEnabled": true,
     "scheme": "bank-app",
     "web": {
       "bundler": "metro",

@@ -11,7 +11,7 @@ export default function Home() {
       <Container>
         <ScreenContent path="app/index.tsx" title="Home" />
         <Link href={{ pathname: '/details', params: { name: 'Dan' } }} asChild>
-          <Button className="bg-blue-500" title="Show Details" />
+          <Button className="bg-gray-500" title="Show Details" />
         </Link>
       </Container>
     </>
